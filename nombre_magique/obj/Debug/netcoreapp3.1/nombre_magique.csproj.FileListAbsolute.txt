@@ -1,0 +1,13 @@
+C:\Users\Jonathan\Desktop\projets_cs\nombre_magique\nombre_magique\bin\Debug\netcoreapp3.1\nombre_magique.exe
+C:\Users\Jonathan\Desktop\projets_cs\nombre_magique\nombre_magique\bin\Debug\netcoreapp3.1\nombre_magique.deps.json
+C:\Users\Jonathan\Desktop\projets_cs\nombre_magique\nombre_magique\bin\Debug\netcoreapp3.1\nombre_magique.runtimeconfig.json
+C:\Users\Jonathan\Desktop\projets_cs\nombre_magique\nombre_magique\bin\Debug\netcoreapp3.1\nombre_magique.runtimeconfig.dev.json
+C:\Users\Jonathan\Desktop\projets_cs\nombre_magique\nombre_magique\bin\Debug\netcoreapp3.1\nombre_magique.dll
+C:\Users\Jonathan\Desktop\projets_cs\nombre_magique\nombre_magique\bin\Debug\netcoreapp3.1\nombre_magique.pdb
+C:\Users\Jonathan\Desktop\projets_cs\nombre_magique\nombre_magique\obj\Debug\netcoreapp3.1\nombre_magique.csprojAssemblyReference.cache
+C:\Users\Jonathan\Desktop\projets_cs\nombre_magique\nombre_magique\obj\Debug\netcoreapp3.1\nombre_magique.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\projets_cs\nombre_magique\nombre_magique\obj\Debug\netcoreapp3.1\nombre_magique.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\projets_cs\nombre_magique\nombre_magique\obj\Debug\netcoreapp3.1\nombre_magique.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\projets_cs\nombre_magique\nombre_magique\obj\Debug\netcoreapp3.1\nombre_magique.dll
+C:\Users\Jonathan\Desktop\projets_cs\nombre_magique\nombre_magique\obj\Debug\netcoreapp3.1\nombre_magique.pdb
+C:\Users\Jonathan\Desktop\projets_cs\nombre_magique\nombre_magique\obj\Debug\netcoreapp3.1\nombre_magique.genruntimeconfig.cache
